@@ -64,8 +64,8 @@ This project focuses on **manual testing** of OpenCart, an open-source e-commerc
 
 ### **ALL THE DOCUMENTS PROVIDED HERE BEFORE EXECUTION**
 ### **FRS**              : 📚 [Functional Requirements Document](FRS/FUNCTIONAL%20REQUIREMENTS%20DOCUMENT/FUNCTIONAL%20REQUIREMENTS%20DOCUMENT.md)
-### **TEST PLAN**        : 📔 [TEST PLAN](Test Plan/TestPlan.md).
-### **TEST SCENARIOS**   : 📔 [TEST SCENARIOS ](Test Scenarios/TestScenarios.md).
+### **TEST PLAN**        : 📔 [TEST PLAN](TestPlan/TestPlan.md).
+### **TEST SCENARIOS**   : 📔 [TEST SCENARIOS ](TestScenarios/TestScenarios.md).
 
 
 
