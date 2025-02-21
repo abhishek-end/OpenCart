@@ -63,9 +63,9 @@ This project focuses on **manual testing** of OpenCart, an open-source e-commerc
 - Test payment gateway integration.
 
 ### **ALL THE DOCUMENTS PROVIDED HERE BEFORE EXECUTION**
-### FRS :       📚 [Functional Requirements Document](FRS/FUNCTIONAL%20REQUIREMENTS%20DOCUMENT/FUNCTIONAL%20REQUIREMENTS%20DOCUMENT.md)
-### TEST PLAN   📔 [TEST PLAN](FRS/FUNCTIONAL%20REQUIREMENTS%20DOCUMENT/FUNCTIONAL%20REQUIREMENTS%20DOCUMENT.md).
-### TEST SCENARIOS   📔 [TEST SCENARIOS ](Test Scenarios/Test Scenarios.md).
+### **FRS**              : 📚 [Functional Requirements Document](FRS/FUNCTIONAL%20REQUIREMENTS%20DOCUMENT/FUNCTIONAL%20REQUIREMENTS%20DOCUMENT.md)
+### **TEST PLAN**        : 📔 [TEST PLAN](Test Plan/Test Plan.md).
+### **TEST SCENARIOS**   : 📔 [TEST SCENARIOS ](Test Scenarios/Test Scenarios.md).
 
 
 
