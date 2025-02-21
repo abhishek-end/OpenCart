@@ -8,17 +8,17 @@ This project focuses on **manual testing** of OpenCart, an open-source e-commerc
 
 ## 🛠️ Installation & Setup (Local Server)
 
-### **1️⃣ Download OpenCart**
+### **1 Download OpenCart**
 - Go to [OpenCart Official Site](https://www.opencart.com/)
 - Download the latest version.
 - Extract the files.
 
-### **2️⃣ Set Up Local Server**
+### **2 Set Up Local Server**
 - Install **XAMPP** or **WAMP**.
 - Move OpenCart files to `htdocs` (XAMPP) or `www` (WAMP).
 - Create a new database using `phpMyAdmin`.
 
-### **3️⃣ Install OpenCart**
+### **3 Install OpenCart**
 - Open `http://localhost/opencart/` in a browser.
 - Follow the installation wizard.
 - Enter database details.
@@ -63,6 +63,10 @@ This project focuses on **manual testing** of OpenCart, an open-source e-commerc
 - Test payment gateway integration.
 
 ### **ALL THE DOCUMENTS PROVIDED HERE BEFORE EXECUTION**
+### FRS :       📚 [Functional Requirements Document](FRS/FUNCTIONAL%20REQUIREMENTS%20DOCUMENT/FUNCTIONAL%20REQUIREMENTS%20DOCUMENT.md)
+### TEST PLAN   📔 [TEST PLAN](FRS/FUNCTIONAL%20REQUIREMENTS%20DOCUMENT/FUNCTIONAL%20REQUIREMENTS%20DOCUMENT.md).
+### TEST SCENARIOS   📔 [TEST SCENARIOS ](Test Scenarios/Test Scenarios.md).
+
 
 
 📢 **Project Status:** 🚀 In Progress  
