@@ -40,11 +40,9 @@ This project focuses on **manual testing** of OpenCart, an open-source e-commerc
   - Functional Testing
 
 ### **💡 Test Environment**
-- **Platform:** Localhost (XAMPP/WAMP)
-- **Test Data:** Sample users, test products
+- **Platform:** Localhost with XAMPP
 - **Browser Compatibility:** Chrome, Firefox, Edge
-
----
+- **Operating System:** Windows 10
 
 ## 🏁 Test Execution
 
@@ -64,6 +62,7 @@ This project focuses on **manual testing** of OpenCart, an open-source e-commerc
 - Ensure proper cart functionality.
 - Test payment gateway integration.
 
+### **ALL THE DOCUMENTS PROVIDED HERE BEFORE EXECUTION**
 
 
 📢 **Project Status:** 🚀 In Progress  
