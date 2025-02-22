@@ -66,7 +66,31 @@ This project focuses on **manual testing** of OpenCart, an open-source e-commerc
 ### **FRS**: 📚 [Functional Requirements Document](FRS/FUNCTIONAL%20REQUIREMENTS%20DOCUMENT/FUNCTIONAL%20REQUIREMENTS%20DOCUMENT.md)
 ### **TEST PLAN**: 📔 [TEST PLAN](TestPlan/TestPlan.md).
 ### **TEST SCENARIOS**: 📔 [TEST SCENARIOS ](TestScenarios/TestScenarios.md).
-### ***TEST CASE ACCOUNT REGISTER***: 📕[ACCOUNT REGISTER](TestCasesmd/Register.md)
+ALL TEST CASES GIVEN BELOW 
+- 📕[ACCOUNT REGISTER](TestCasesmd/Register.md)
+- 📕[AddressBook](TestCasesmd/AddressBook.md)  
+- 📕[AddtoCart](TestCasesmd/AddtoCart.md)  
+- 📕[Affiliate](TestCasesmd/Affiliate.md)  
+- 📕[ChangePassword](TestCasesmd/ChangePassword.md)  
+- 📕[Checkout](TestCasesmd/Checkout.md)  
+- 📕[Contact Us](TestCasesmd/Contact%20Us.md)  
+- 📕[Currencies](TestCasesmd/Currencies.md)  
+- 📕[Downloads](TestCasesmd/Downloads.md)  
+- 📕[ForgotPassword](TestCasesmd/ForgotPassword.md)  
+- 📕[GiftCertificate](TestCasesmd/GiftCertificate.md)  
+- 📕[HeaderMenuFooterOptions](TestCasesmd/HeaderMenuFooterOptions.md)  
+- 📕[HomePage](TestCasesmd/HomePage.md)  
+- 📕[Login](TestCasesmd/Login.md)  
+- 📕[Logout](TestCasesmd/Logout.md)  
+- 📕[My Account](TestCasesmd/My%20Account.md)  
+- 📕[MyAccountInformation](TestCasesmd/MyAccountInformation.md)  
+- 📕[Newsletter](TestCasesmd/Newsletter.md)  
+- 📕[OrderHistory](TestCasesmd/OrderHistory.md)  
+- 📕[OrderInformation](TestCasesmd/OrderInformation.md)  
+- 📕[Product Returns](TestCasesmd/Product%20Returns.md)  
+- 📕[ProductCompare](TestCasesmd/ProductCompare.md)  
+- 📕[ProductDisplayPage](TestCasesmd/ProductDisplayPage.md)  
+
 
 
 📢 **Project Status:** 🚀 In Progress  
