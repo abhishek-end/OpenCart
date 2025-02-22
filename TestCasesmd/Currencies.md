@@ -1,0 +1,6 @@
+| | | | | | | |
+|-|-|-|-|-|-|-|
+|Test Case ID|Test Scenario |Test Case Title|Pre-requisites|Test Steps|Test Data|Expected Result (ER)|
+|TC_CR_001|(TS_031) Currencies|Validate the complete functionality of the Application by selecting 'Euro' currency|1. Open the Application URL|1. Click on 'Currency' header option  2. Select 'Euro' option (Validate ER-1)|Not Applicable|1. The complete functionality of the application should work correctly according to the selected 'Euro' currency|
+|TC_CR_002|(TS_031) Currencies|Validate the complete functionality of the Application by selecting 'Pound Sterling' currency|1. Open the Application URL|1. Click on 'Currency' header option  2. Select 'Pound Sterling' option (Validate ER-1)|Not Applicable|1. The complete functionality of the application should work correctly according to the selected 'Pound Sterling' currency|
+|TC_CR_003|(TS_031) Currencies|Validate the complete functionality of the Application by selecting 'US Dollar' currency|1. Open the Application URL|1. Click on 'Currency' header option  2. Select 'US Dollar' option (Validate ER-1)|Not Applicable|1. The complete functionality of the application should work correctly according to the selected 'US Dollar' currency|
