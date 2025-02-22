@@ -29,6 +29,6 @@
 |TS_026|FRS|Validate the working of 'Newsletter' functionality|WILL UPDATE LATER AFTER TEST CASES|
 |TS_027|FRS|Validate the working of 'Contact Us' page functionality|WILL UPDATE LATER AFTER TEST CASES|
 |TS_028|FRS|Validate the working of 'Gift Certificate' page functionality|WILL UPDATE LATER AFTER TEST CASES|
-|TS_029|FRS|Validate the working of 'Speal Offers' page functionality|WILL UPDATE LATER AFTER TEST CASES|
+|TS_029|FRS|Validate the working of 'Special Offers' page functionality|WILL UPDATE LATER AFTER TEST CASES|
 |TS_030|FRS|Validate the working of 'Header' options, 'Menu' options and 'Footer' options|WILL UPDATE LATER AFTER TEST CASES|
 |TS_031|FRS|Validate the complete Application functionality for different currencies|WILL UPDATE LATER AFTER TEST CASES|
