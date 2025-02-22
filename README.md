@@ -89,7 +89,17 @@ ALL TEST CASES GIVEN BELOW
 - 📕[OrderInformation](TestCasesmd/OrderInformation.md)  
 - 📕[Product Returns](TestCasesmd/Product%20Returns.md)  
 - 📕[ProductCompare](TestCasesmd/ProductCompare.md)  
-- 📕[ProductDisplayPage](TestCasesmd/ProductDisplayPage.md)  
+- 📕[ProductDisplayPage](TestCasesmd/ProductDisplayPage.md)
+- 📕[RecurringPayments](TestCasesmd/RecurringPayments.md)  
+- 📕[Register](TestCasesmd/Register.md)  
+- 📕[Returns](TestCasesmd/Returns.md)  
+- 📕[RewardPoints](TestCasesmd/RewardPoints.md)  
+- 📕[Search](TestCasesmd/Search.md)  
+- 📕[ShoppingCart](TestCasesmd/ShoppingCart.md)  
+- 📕[Special Offers](TestCasesmd/Special%20Offers.md)  
+- 📕[Transactions](TestCasesmd/Transactions.md)  
+- 📕[Wish List](TestCasesmd/Wish%20List.md)  
+
 
 
 
