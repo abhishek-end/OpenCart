@@ -66,7 +66,7 @@ This project focuses on **manual testing** of OpenCart, an open-source e-commerc
 ### **FRS**: 📚 [Functional Requirements Document](FRS/FUNCTIONAL%20REQUIREMENTS%20DOCUMENT/FUNCTIONAL%20REQUIREMENTS%20DOCUMENT.md)
 ### **TEST PLAN**: 📔 [TEST PLAN](TestPlan/TestPlan.md).
 ### **TEST SCENARIOS**: 📔 [TEST SCENARIOS ](TestScenarios/TestScenarios.md).
-### ***TEST CASE ACCOUNT REGISTER***: 📕[ACCOUNT REGISTER](accountregister.md)
+### ***TEST CASE ACCOUNT REGISTER***: 📕[ACCOUNT REGISTER](Test Cases md/Register.md)
 
 
 📢 **Project Status:** 🚀 In Progress  
