@@ -67,7 +67,7 @@ This project focuses on **manual testing** of OpenCart, an open-source e-commerc
 ### **TEST PLAN**: 📔 [TEST PLAN](TestPlan/TestPlan.md).
 ### **TEST SCENARIOS**: 📔 [TEST SCENARIOS ](TestScenarios/TestScenarios.md).
 ALL TEST CASES GIVEN BELOW 
-- 📕[ACCOUNT REGISTER](TestCasesmd/Register.md)
+
 - 📕[AddressBook](TestCasesmd/AddressBook.md)  
 - 📕[AddtoCart](TestCasesmd/AddtoCart.md)  
 - 📕[Affiliate](TestCasesmd/Affiliate.md)  
