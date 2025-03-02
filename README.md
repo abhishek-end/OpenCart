@@ -107,6 +107,6 @@ ALL TEST CASES GIVEN BELOW
 📂 **Test Cases:** Uploaded in **Jira**
 ### TEST SUMMARY REPORT 
 Test Summary Report opencart.md
-- 📕[Test Summary Report opencart](Test%20Summary%20Report%20opencart.md)  
+- 📊[Test Summary Report opencart](Test%20Summary%20Report%20opencart.md)  
 
 
