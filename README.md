@@ -14,8 +14,8 @@ This project focuses on **manual testing** of OpenCart, an open-source e-commerc
 - Extract the files.
 
 ### **2 Set Up Local Server**
-- Install **XAMPP** or **WAMP**.
-- Move OpenCart files to `htdocs` (XAMPP) or `www` (WAMP).
+- Install **XAMPP**.
+- Move OpenCart files to `htdocs` (XAMPP).
 - Create a new database using `phpMyAdmin`.
 
 ### **3 Install OpenCart**
